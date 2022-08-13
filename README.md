@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adolar0042
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning HTML, CSS, Powershell and soon Javascript.
+- 🌱 I’m currently learning various languages.
 - 📫 How to reach me: 
   - 📧 adolar0042@gmail.com
   - Adolar0042#0325
