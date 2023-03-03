@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and smaller utilities.
 - 🌱 I’m currently learning various languages and finding my way into the world of coding.
 - 📫 How to reach me: 
-  - 📧 adolar0042@gmail.com
+  - 📧 [adolar0042@gmail.com](mailto:adolar0042@gmail.com)
   - Adolar0042#0325
   
 <p align="center"> 
