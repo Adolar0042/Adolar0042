@@ -1,4 +1,4 @@
-1. Install [Revanced Manager](https://github.com/revanced/revanced-manager/releases) and [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG/releases) and install both
+1. Download [Revanced Manager](https://github.com/revanced/revanced-manager/releases) and [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG/releases) and install both
 2. Open Revanced Manager and allow installing unknown apps from it.
 3. Go to the 'Patcher' tab and press on "Select an application"
 4. Now press on YouTube
