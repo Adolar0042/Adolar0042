@@ -1,6 +1,6 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
 # name: Metrics
-# on:
+on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
   # Lines below let you run workflow manually and on each commit
@@ -63,5 +63,8 @@
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
+          plugin_pagespeed: yes
+          plugin_pagespeed_detailed: yes
+          plugin_pagespeed_url: https://adolar0042.is-a.dev
           plugin_projects: yes
           plugin_projects_limit: 4
