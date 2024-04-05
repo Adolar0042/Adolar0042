@@ -51,7 +51,7 @@ jobs:
           plugin_lines: yes
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
-          plugin_pagespeed_url: https://adolar0042.is-a.dev
+          plugin_pagespeed_url: https://adolar.dev
           plugin_people: yes
           plugin_people_limit: 64
           plugin_people_shuffle: yes
