@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Adolar0042
-- 👀 I’m interested in programming and smaller utilities.
-- 🌱 I’m currently learning various languages and finding my way into the world of coding.
-- 📫 How to reach me: 
-  - 📧 [adolar0042@gmail.com](mailto:adolar0042@gmail.com)
-  - Adolar0042
-
 <p align="center"> 
   <img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adolar0042&theme=github_dark" alt="Language Stats"/>
   <br><br>
