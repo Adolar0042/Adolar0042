@@ -1,9 +1,7 @@
 <p align="center"> 
   <img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adolar0042&theme=github_dark" alt="Language Stats"/>
   <br><br>
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/adolar0042/count.svg" /><br><br>
-  <a href="https://adolar.dev"><i>I also have a small website</i></a>
+  <a href="https://adolar.dev"><i>I also have a small website,<br>though there is nothing much to see yet.</i></a>
 </p>
 <!--- <img src="https://github.com/adolar0042/adolar0042/blob/main/github-metrics.svg" alt="Metrics" width="100%"> --->
 <!---
